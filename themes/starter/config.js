@@ -26,97 +26,97 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: '',
-  STARTER_NAV_BUTTON_1_URL: '',
+  STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
+  STARTER_NAV_BUTTON_1_URL: '/sign-in',
 
-  STARTER_NAV_BUTTON_2_TEXT: '',
-  STARTER_NAV_BUTTON_2_URL: '',
+  STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
+  STARTER_NAV_BUTTON_2_URL: '/sign-up',
 
   // 特性区块
-  STARTER_FEATURE_ENABLE: false, // 特性区块开关
-    STARTER_FEATURE_TITLE: 'Chinafrica', // 特性
-  STARTER_FEATURE_TEXT_1: 'What we do?', // 特性
+  STARTER_FEATURE_ENABLE: true, // 特性区块开关
+  STARTER_FEATURE_TITLE: '特性', // 特性
+  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
-    'Assist with product acquisition, Quality Control and Shipping between China and Africa.', // 特性
+    'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    '', // 特性2
+    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: 'The most suitable international logistics company for you',
+  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
   STARTER_ABOUT_TEXT:
-    'We assist with finding the best products at the lowest prices, by using a network of 500,000+ factories. <br /> <br /> Personalized selection of multiple transportation and express services for your situation, delivery within 15-30 days, including door-to-door service.',
-  STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
+    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
+  STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '60+',
-  STARTER_ABOUT_TIPS_2: 'logistics company',
-  STARTER_ABOUT_TIPS_3: 'Are working with us',
+  STARTER_ABOUT_TIPS_1: '7000+',
+  STARTER_ABOUT_TIPS_2: '博客站点',
+  STARTER_ABOUT_TIPS_3: '正在线上运行',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
-  STARTER_PRICING_TITLE: 'Type of shipping',
-  STARTER_PRICING_TEXT_1: 'Flexible transportation methods',
+  STARTER_PRICING_TITLE: '价格表',
+  STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
-    'We have multiple modes of transportation, you can choose according to your needs.',
+    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
 
-  STARTER_PRICING_1_TITLE: 'Air transport',
-  STARTER_PRICING_1_PRICE: '90.0',
-  STARTER_PRICING_1_PRICE_CURRENCY: '￥',
-  STARTER_PRICING_1_PRICE_PERIOD: '/kg',
-  STARTER_PRICING_1_HEADER: 'Suitable for urgent packages',
-  STARTER_PRICING_1_FEATURES: '15-30 days，door to door,The more transportation，the cheaper it is,Tax and Customs Clearance fees included!', // 英文逗号隔开
-  STARTER_PRICING_1_BUTTON_TEXT: 'Get a quote',
+  STARTER_PRICING_1_TITLE: '入门版',
+  STARTER_PRICING_1_PRICE: '19.9',
+  STARTER_PRICING_1_PRICE_CURRENCY: '$',
+  STARTER_PRICING_1_PRICE_PERIOD: '每月',
+  STARTER_PRICING_1_HEADER: '功能点',
+  STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
+  STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
-  STARTER_PRICING_2_TAG: 'recommend',
-  STARTER_PRICING_2_TITLE: 'Sea shipping',
-  STARTER_PRICING_2_PRICE: '30.0',
-  STARTER_PRICING_2_PRICE_CURRENCY: '￥',
-  STARTER_PRICING_2_PRICE_PERIOD: '/kg',
-  STARTER_PRICING_2_HEADER: 'Suitable for most goods',
-  STARTER_PRICING_2_FEATURES: '60-90 days，door to door,The cheapest mode of transportation,Tax and Customs Clearance fees included!', // 英文逗号隔开
-  STARTER_PRICING_2_BUTTON_TEXT: 'Instant inquiry',
+  STARTER_PRICING_2_TAG: '推荐',
+  STARTER_PRICING_2_TITLE: '基础版',
+  STARTER_PRICING_2_PRICE: '39.9',
+  STARTER_PRICING_2_PRICE_CURRENCY: '$',
+  STARTER_PRICING_2_PRICE_PERIOD: '每月',
+  STARTER_PRICING_2_HEADER: '功能点',
+  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
+  STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
-  STARTER_PRICING_3_TITLE: 'Other',
-  STARTER_PRICING_3_PRICE: 'Inquiry for quotation',
-  STARTER_PRICING_3_PRICE_CURRENCY: '',
-  STARTER_PRICING_3_PRICE_PERIOD: '',
-  STARTER_PRICING_3_HEADER: 'DIY customize your shipping method!',
-  STARTER_PRICING_3_FEATURES: 'Express,truck transportation,Luggage bag,···', // 英文逗号隔开
-  STARTER_PRICING_3_BUTTON_TEXT: 'Customize now',
+  STARTER_PRICING_3_TITLE: '高级版',
+  STARTER_PRICING_3_PRICE: '59.9',
+  STARTER_PRICING_3_PRICE_CURRENCY: '$',
+  STARTER_PRICING_3_PRICE_PERIOD: '每月',
+  STARTER_PRICING_3_HEADER: '功能点',
+  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
+  STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
-  STARTER_TESTIMONIALS_TITLE: 'User feedback',
-  STARTER_TESTIMONIALS_TEXT_1: 'What do our users say',
+  STARTER_TESTIMONIALS_TITLE: '用户反馈',
+  STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
-    'Hundreds of customers chose to use Chinafrica to transport their goods, and with the help of customer service, they were able to purchase the highest quality products in China at the most favorable prices in the shortest possible time!',
+    '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
@@ -178,13 +178,13 @@ const CONFIG = {
 
   //   FAQ 常见问题模块
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
-  STARTER_FAQ_TITLE: 'Frequently asked questions',
-  STARTER_FAQ_TEXT_1: 'Do you have any questions? Please take a look here.',
-  STARTER_FAQ_TEXT_2: 'We have collected common user questions.',
+  STARTER_FAQ_TITLE: '常见问题解答',
+  STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
+  STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: 'How is the transportation fee charged?？',
+  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
   STARTER_FAQ_1_ANSWER:
-    'During transportation, the cost is calculated based on the volume and weight of the package, and the higher value is used for billing.',
+    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
 
   STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
   STARTER_FAQ_2_ANSWER:
@@ -240,12 +240,12 @@ const CONFIG = {
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TITLE: 'Contact Us',
-  STARTER_CONTACT_TEXT: 'Tell us the problem you encountered',
-  STARTER_CONTACT_LOCATION_TITLE: 'Our location',
-  STARTER_CONTACT_LOCATION_TEXT: 'Hangzhou, China',
-  STARTER_CONTACT_EMAIL_TITLE: 'How can we assist you？',
-  STARTER_CONTACT_EMAIL_TEXT: 'ChinAfrica520@hotmail.com',
+  STARTER_CONTACT_TITLE: '联系我们',
+  STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
+  STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
+  STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
+  STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
+  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
@@ -259,7 +259,7 @@ const CONFIG = {
   //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
 
   // 合作伙伴的图标
-  STARTER_BRANDS_ENABLE: false, // 合作伙伴开关
+  STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
   STARTER_BRANDS: [
     {
       IMAGE: '/images/starter/brands/graygrids.svg',
@@ -293,80 +293,73 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: 'The most convenient international shipping method you have ever had.',
+  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: 'About us',
+      TITLE: '关于我们',
       LINK_GROUP: [
-        { TITLE: 'Our Story', URL: '/#home' },
+        { TITLE: '官方主页', URL: '/#home' },
+        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
         {
-          TITLE: 'Help and support',
+          TITLE: '帮助支持',
           URL: 'https://docs.tangly1024.com/article/how-to-question'
         },
         {
-          TITLE: 'Collaboration Application',
+          TITLE: '合作申请',
           URL: 'https://docs.tangly1024.com/article/my-service'
         }
       ]
     },
     {
-      TITLE: 'Destination',
+      TITLE: '功能特性',
       LINK_GROUP: [
         {
-          TITLE: 'Africa',
+          TITLE: '部署指南',
           URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
         },
         {
-          TITLE: 'Asia',
+          TITLE: '升级指南',
           URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
         },
-        { TITLE: 'The Americas', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
       ]
     },
     {
-          TITLE: 'Europe',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
-        },
-    {
-          TITLE: 'Oceania',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
-        },
-    {
-      TITLE: 'I need',
+      TITLE: 'Notion写作',
       LINK_GROUP: [
         {
-          TITLE: 'Purchase',
+          TITLE: 'Notion开始写作',
           URL: 'https://docs.tangly1024.com/article/start-to-write'
         },
         {
-          TITLE: 'Transport',
+          TITLE: '快捷键提升效率',
           URL: 'https://docs.tangly1024.com/article/notion-short-key'
         },
         {
-          TITLE: 'Procurement and transportation',
+          TITLE: '中国大陆使用Notion',
           URL: 'https://docs.tangly1024.com/article/notion-faster'
         }
       ]
     }
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: 'News',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
-  STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'Privacy policy',
+  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
   STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Legacy notice',
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
 
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: 'Terms of use',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
-  STARTER_404_TITLE: 'We seem unable to find the page you are looking for.',
-  STARTER_404_TEXT: 'i 'm sorry! The page you are looking for does not exist. It may have been moved or deleted.',
-  STARTER_404_BACK: 'Return to homepage',
+  STARTER_404_TITLE: '我们似乎找不到您要找的页面。',
+  STARTER_404_TEXT: '抱歉！您要查找的页面不存在。可能已经移动或删除。',
+  STARTER_404_BACK: '回到主页',
 
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
