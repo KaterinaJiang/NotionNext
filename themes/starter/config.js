@@ -110,7 +110,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   // 首页用户测评区块
-  STARTER_TESTIMONIALS_ENABLE: false, // 测评区块开关
+  STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: 'Customer feedback',
   STARTER_TESTIMONIALS_TEXT_1: 'What customers says',
   STARTER_TESTIMONIALS_TEXT_2:
@@ -130,12 +130,12 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+        'Chinafrica has made international shipping a breeze for us.Their team is knowledgeable, and they handle all the details,making the process stress-free.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Wassana',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Thailand',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
