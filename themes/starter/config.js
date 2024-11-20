@@ -90,9 +90,9 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
 
   STARTER_PRICING_2_TAG: 'Recommend',
   STARTER_PRICING_2_TITLE: 'Sea shipping',
-  STARTER_PRICING_2_PRICE: '/kg',
+  STARTER_PRICING_2_PRICE: '4.99',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
-  STARTER_PRICING_2_PRICE_PERIOD: '4.99',
+  STARTER_PRICING_2_PRICE_PERIOD: '/kg',
   STARTER_PRICING_2_HEADER: '60~90 Days',
   STARTER_PRICING_2_FEATURES: 'Cheap,fewer restrictions,Large cargo volume,Not affected by weather', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: 'Inquiry now',
