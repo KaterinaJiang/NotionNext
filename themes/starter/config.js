@@ -86,7 +86,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   STARTER_PRICING_1_FEATURES: 'Protective,Full tracking,High speed', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'Ask now',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+    'https://www.chin-a-frica.store/contact',
 
   STARTER_PRICING_2_TAG: 'Recommend',
   STARTER_PRICING_2_TITLE: 'Sea shipping',
@@ -97,7 +97,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   STARTER_PRICING_2_FEATURES: 'Cheap,fewer restrictions,Large cargo volume,Not affected by weather', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: 'Inquiry now',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+    'https://www.chin-a-frica.store/contact',
 
   STARTER_PRICING_3_TITLE: 'Customized',
   STARTER_PRICING_3_PRICE: '？',
@@ -107,7 +107,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   STARTER_PRICING_3_FEATURES: 'Trucking,Luggage bag,Express delivery,...', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: 'Free quote',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+    'https://www.chin-a-frica.store/contact',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
