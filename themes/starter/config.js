@@ -315,13 +315,13 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       LINK_GROUP: [
         {
           TITLE: 'Our rates',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          URL: 'https://www.chin-a-frica.store/ourrate'
         },
         {
           TITLE: 'Areas we ship',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          URL: 'https://www.chin-a-frica.store/areas'
         },
-        { TITLE: 'Products we ship', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: 'Products we ship', URL: 'https://www.chin-a-frica.store/productweship' }
       ]
     },
     {
@@ -329,15 +329,15 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       LINK_GROUP: [
         {
           TITLE: 'For Chinese merchants',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          URL: 'https://www.chin-a-frica.store/forchinesemerchants'
         },
         {
           TITLE: 'For logistics companies',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          URL: 'https://www.chin-a-frica.store/forlogisticscompanies'
         },
         {
           TITLE: 'For corporate customers',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          URL: 'https://www.chin-a-frica.store/forcorporatecustomers'
         }
       ]
     }
