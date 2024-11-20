@@ -239,7 +239,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
   STARTER_CONTACT_TITLE: 'Contact us',
-  STARTER_CONTACT_TEXT: 'Tell us theproblem you encountered',
+  STARTER_CONTACT_TEXT: 'Tell us the problem you encountered',
   STARTER_CONTACT_LOCATION_TITLE: 'Our location',
   STARTER_CONTACT_LOCATION_TEXT: 'Hangzhou, China',
   STARTER_CONTACT_EMAIL_TITLE: 'How can we assist you?',
