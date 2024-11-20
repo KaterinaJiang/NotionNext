@@ -299,14 +299,14 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       TITLE: 'About us',
       LINK_GROUP: [
         { TITLE: 'Home', URL: '/#home' },
-        { TITLE: 'Our story', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: 'Our story', URL: 'https://www.chin-a-frica.store/about' },
         {
           TITLE: 'What we do',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          URL: 'https://www.chin-a-frica.store/whatwedo'
         },
         {
           TITLE: 'Contact us',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          URL: 'https://www.chin-a-frica.store/contact'
         }
       ]
     },
