@@ -64,7 +64,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   STARTER_ABOUT_TEXT:
     'Assist you in procurement, transportation, customs clearance, tax payment, and arranging domestic transportation... <br /> <br /> With our help, international transportation is as convenient as express delivery!',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+  STARTER_ABOUT_BUTTON_URL: 'https://www.chin-a-frica.store/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '600+',
