@@ -9,7 +9,7 @@ const CONFIG = {
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
   // 英雄区块导航
-  STARTER_HERO_ENABLE: false, // 开启英雄区
+  STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'ChinAfrica', // 英雄区文字
   STARTER_HERO_TITLE_2: '-express- Trading And Logistics Company', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
@@ -32,7 +32,7 @@ const CONFIG = {
   STARTER_NAV_BUTTON_2_URL: '/sign-up',
 
   // 特性区块
-STARTER_FEATURE_ENABLE: true, // 特性区块开关
+STARTER_FEATURE_ENABLE: false, // 特性区块开关
 STARTER_FEATURE_TITLE: '特性', // 特性
 STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
 STARTER_FEATURE_TEXT_2:
