@@ -302,7 +302,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
         { TITLE: 'Our story', URL: 'https://www.chin-a-frica.store/about' },
         {
           TITLE: 'What we do',
-          URL: 'https://www.chin-a-frica.store/whatwedo'
+          URL: 'https://www.chin-a-frica.store/what-we-do'
         },
         {
           TITLE: 'Contact us',
@@ -315,13 +315,13 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       LINK_GROUP: [
         {
           TITLE: 'Our rates',
-          URL: 'https://www.chin-a-frica.store/ourrate'
+          URL: 'https://www.chin-a-frica.store/our-rate'
         },
         {
           TITLE: 'Areas we ship',
-          URL: 'https://www.chin-a-frica.store/areas'
+          URL: 'https://www.chin-a-frica.store/areas-we-ship'
         },
-        { TITLE: 'Products we ship', URL: 'https://www.chin-a-frica.store/productweship' }
+        { TITLE: 'Products we ship', URL: 'https://www.chin-a-frica.store/products-we-ship' }
       ]
     },
     {
@@ -329,15 +329,15 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       LINK_GROUP: [
         {
           TITLE: 'For Chinese merchants',
-          URL: 'https://www.chin-a-frica.store/forchinesemerchants'
+          URL: 'https://www.chin-a-frica.store/for-chinese-merchants'
         },
         {
           TITLE: 'For logistics companies',
-          URL: 'https://www.chin-a-frica.store/forlogisticscompanies'
+          URL: 'https://www.chin-a-frica.store/for-logistics-companies'
         },
         {
           TITLE: 'For corporate customers',
-          URL: 'https://www.chin-a-frica.store/forcorporatecustomers'
+          URL: 'https://www.chin-a-frica.store/for-corporate-customers'
         }
       ]
     }
@@ -346,7 +346,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   STARTER_FOOTER_BLOG_LATEST_TITLE: 'Latest Announcement',
 
   STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'Privacy policy',
-  STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
+  STARTER_FOOTER_PRIVACY_POLICY_URL: '',
 
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Legal Notice',
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
