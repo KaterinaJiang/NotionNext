@@ -53,7 +53,7 @@ module.exports = {
         },
         primary: '#a3bfd5',
         'blue-dark': '#1B44C8',
-        secondary: '#13C296',
+        secondary: '#3b82f6',
         'body-color': '#637381',
         'body-secondary': '#8899A8',
         warning: '#FBBF24',
