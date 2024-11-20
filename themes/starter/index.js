@@ -462,10 +462,10 @@ const LayoutSignIn = props => {
 const LayoutSignUp = props => {
   const enableClerk = process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
 
-  const title = siteConfig('STARTER_SIGNIN', '注册')
+  const title = siteConfig('STARTER_SIGNIN', 'Register')
   const description = siteConfig(
     'STARTER_SIGNIN_DESCRITION',
-    '这里是演示页面，NotionNext目前不提供会员注册功能'
+    'Currently, chinafrica does not open registration activities for individual users. If you have any questions, please contact customer service.'
   )
   return (
     <>
