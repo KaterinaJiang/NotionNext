@@ -81,7 +81,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   STARTER_PRICING_1_TITLE: 'Air transport',
   STARTER_PRICING_1_PRICE: '12.66',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
-  STARTER_PRICING_1_PRICE_PERIOD: '4.99',
+  STARTER_PRICING_1_PRICE_PERIOD: '/kg',
   STARTER_PRICING_1_HEADER: '15~30 Days',
   STARTER_PRICING_1_FEATURES: 'Protective,Full tracking,High speed', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'Ask now',
@@ -89,8 +89,8 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
   STARTER_PRICING_2_TAG: 'Recommend',
-  STARTER_PRICING_2_TITLE: 'Sea shipping版',
-  STARTER_PRICING_2_PRICE: '4.99',
+  STARTER_PRICING_2_TITLE: 'Sea shipping',
+  STARTER_PRICING_2_PRICE: '/kg',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: '4.99',
   STARTER_PRICING_2_HEADER: '60~90 Days',
