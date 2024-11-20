@@ -360,7 +360,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
   STARTER_404_BACK: '回到主页',
 
   // 页面底部的行动呼吁模块
-  STARTER_CTA_ENABLE: true,
+  STARTER_CTA_ENABLE: false,
   STARTER_CTA_TITLE: '你还在等待什么呢？',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIOTN:
