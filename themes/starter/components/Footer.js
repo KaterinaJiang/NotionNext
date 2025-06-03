@@ -76,10 +76,10 @@ export const Footer = props => {
                         key={index}
                         href={item?.href}
                         className='group flex items-center gap-[22px]'>
-                        {item.pageCoverThumbnail && (
+                        {item.postCoverThumbnail && (
                           <div className='overflow-hidden rounded w-20 h-12'>
                             <img
-                              src={item.pageCoverThumbnail}
+                              src={item.postCoverThumbnail}
                               alt={item.title}
                             />
                           </div>
