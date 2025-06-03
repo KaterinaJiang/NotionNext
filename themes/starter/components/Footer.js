@@ -62,7 +62,7 @@ export const Footer = props => {
               )
             })}
 
-            {/* 页脚右侧最新博文 */}
+  {/* 页脚右侧最新博文 */}
             <div className='w-full px-4 md:w-2/3 lg:w-6/12 xl:w-3/12'>
               <div className='mb-10 w-full'>
                 <h4 className='mb-9 text-lg font-semibold text-white'>
@@ -76,10 +76,10 @@ export const Footer = props => {
                         key={index}
                         href={item?.href}
                         className='group flex items-center gap-[22px]'>
-                        {item.postCoverThumbnail && (
+                        {item.pageCoverThumbnail && (
                           <div className='overflow-hidden rounded w-20 h-12'>
                             <img
-                              src={item.postCoverThumbnail}
+                              src={item.pageCoverThumbnail}
                               alt={item.title}
                             />
                           </div>
@@ -95,6 +95,7 @@ export const Footer = props => {
             </div>
           </div>
         </div>
+
 
         {/* 底部版权信息相关 */}
 
