@@ -123,7 +123,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'As a business owner in SA, finding a reliable freightforwarder is crucial. Chinafrica has been a game-changerfor us! ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/KaterinaJiang/-1/blob/main/7.png?raw=true',
+        'https://github.com/KaterinaJiang/touxiang/blob/main/7.png?raw=true',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Thandiweauthor',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'South Africa',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -132,7 +132,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'Chinafrica has made international shipping a breeze for us.Their team is knowledgeable, and they handle all the details,making the process stress-free.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/KaterinaJiang/-2/blob/main/1.png?raw=true',
+        'https://github.com/KaterinaJiang/touxiang/blob/main/1.png?raw=true',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Wassana',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Thailand',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -141,7 +141,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'Chinafrica has been an invaluable partner for our companyTheir expertise in international shipping has saved us timeand money.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/KaterinaJiang/-3/blob/main/22.png?raw=true',
+        'https://github.com/KaterinaJiang/touxiang/blob/main/22.png?raw=true',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Olivia',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'UK',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -150,7 +150,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'They are always on time, and their customer support isexcellent. lt is reassuring to know that my shipments arealways in good hands.',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/KaterinaJiang/-3/blob/main/3.png?raw=true',
+        'https://github.com/KaterinaJiang/touxiang/blob/main/3.png?raw=true',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Johnson ',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'USA',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -159,7 +159,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'I highly recommend them to anyone in need of a reliablefreight forwarding service!',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/KaterinaJiang/-3/blob/main/4.png?raw=true',
+        'https://github.com/KaterinaJiang/touxiang/blob/main/4.png?raw=true',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Lerato',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'South Africa',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -167,7 +167,7 @@ STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  // 特性4
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: 'They are efficient, reliable, and their prices are very fair!',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://github.com/KaterinaJiang/-3/blob/main/8.png?raw=true',
+        'https://github.com/KaterinaJiang/touxiang/blob/main/8.png?raw=true',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Doe',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'USA',
       STARTER_TESTIMONIALS_ITEM_URL: ''
