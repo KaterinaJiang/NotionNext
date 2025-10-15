@@ -26,10 +26,10 @@ const CONFIG = {
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
-  STARTER_NAV_BUTTON_1_URL: '/sign-in',
+  STARTER_NAV_BUTTON_1_URL: '',
 
   STARTER_NAV_BUTTON_2_TEXT: '',
-  STARTER_NAV_BUTTON_2_URL: '/sign-up',
+  STARTER_NAV_BUTTON_2_URL: '',
 
   // 特性区块
 STARTER_FEATURE_ENABLE: false, // 特性区块开关
